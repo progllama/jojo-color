@@ -1,5 +1,12 @@
 {
     "recommendations": [
-        "golang.go"
+        "golang.go",
+        "saikou9901.evilinspector",
+        "oderwat.indent-rainbow",
+        "ms-ceintl.vscode-language-pack-ja",
+        "kiteco.kite",
+        "pkief.material-icon-theme",
+        "christian-kohler.path-intellisense",
+        "Gruntfuggly.todo-tree"
     ]
 }
